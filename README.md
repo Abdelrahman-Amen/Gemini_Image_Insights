@@ -84,3 +84,11 @@ In this project, we use Gemini-1.5-Flash for its speed and versatility 🏃‍�
 
 • Generating textual insights from complex visual content.
 
+
+
+## Demo 📽
+
+Below is a demonstration of how the application works:
+
+![Demo of the Application](https://github.com/Abdelrahman-Amen/Gemini_Image_Insights/blob/main/Demo.gif)
+
